@@ -42,7 +42,7 @@ public class BotAppInfo
         Os = "Linux",
         Kernel = "Linux",
         VendorOs = "linux",
-        CurrentVersion = "3.2.10-25765",
+        CurrentVersion = "3.2.12-26909",
         MiscBitmap = 32764,
         PtVersion = "2.0.0",
         SsoVersion = 19,
@@ -51,7 +51,7 @@ public class BotAppInfo
         AppId = 1600001615,
         SubAppId = 537234773,
         AppIdQrCode = 13697054,
-        AppClientVersion = 25765,
+        AppClientVersion = 26909,
         
         MainSigMap = 169742560,
         SubSigMap = 0,
